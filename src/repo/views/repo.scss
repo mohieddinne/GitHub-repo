@@ -1,0 +1,32 @@
+.form-select {
+	background: #ffffff;
+	overflow: hidden;
+	border: 1px solid #cbcbcb;
+	border-radius: 8px;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), inset 0 0 10px rgba(0, 0, 0, 0.07);
+}
+.search{
+    margin: 2rem;
+
+height: 30px;
+width:70%;
+    border: 1px solid #cbcbcb;
+    border-radius: 10px;
+	box-shadow: 0 0 1px rgba(0, 0, 0, 0.1), inset 0 0 10px rgba(0, 0, 0, 0.07);
+}
+
+.select {
+	position: relative;
+	background: transparent;
+	background-image: none;
+	display: block;
+	width: 100%;
+	outline: none;
+	color: #888888;
+	cursor: pointer;
+	z-index: 2;
+	border: none;
+	padding: 10px 10px 10px 5px;
+	text-overflow: '';
+	text-indent: 5px;
+}
